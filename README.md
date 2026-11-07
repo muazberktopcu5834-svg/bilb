@@ -1,2 +1,2 @@
-# bilb
+# bilbul
 ZEKA OYUNU BİLBUL
